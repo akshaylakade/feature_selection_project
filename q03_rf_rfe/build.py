@@ -18,4 +18,3 @@ def rf_rfe(data):
     return list(X.columns[rfe.support_])
 
 
-
